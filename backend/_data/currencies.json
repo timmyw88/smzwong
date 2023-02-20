@@ -1,0 +1,114 @@
+[
+  {
+    "code": "AED",
+    "cname": "Arab Emirates Dirham"
+  },
+  {
+    "code": "AUD",
+    "cname": "Australian Dollar"
+  },
+  {
+    "code": "BRD",
+    "cname": "Brunei Dollar"
+  },
+  {
+    "code": "CAD",
+    "cname": "Canadian Dollar"
+  },
+  {
+    "code": "CHF",
+    "cname": "Swiss Franc"
+  },
+  {
+    "code": "CNY",
+    "cname": "Chinese Yuan"
+  },
+  {
+    "code": "EUR",
+    "cname": "Euro"
+  },
+  {
+    "code": "GBP",
+    "cname": "British Pound Sterling"
+  },
+  {
+    "code": "HKD",
+    "cname": "Hong Kong Dollar"
+  },
+  {
+    "code": "IDR",
+    "cname": "Indonesian Rupiah"
+  },
+  {
+    "code": "INR",
+    "cname": "Indian Rupee"
+  },
+  {
+    "code": "JPY",
+    "cname": "Japanese Yen"
+  },
+  {
+    "code": "KRW",
+    "cname": "Korean Won"
+  },
+  {
+    "code": "MOP",
+    "cname": "Macau Pataca"
+  },
+  {
+    "code": "NOK",
+    "cname": "Norwegian Krone"
+  },
+  {
+    "code": "TWD",
+    "cname": "Taiwan New Dollar"
+  },
+  {
+    "code": "NZD",
+    "cname": "New Zealand Dollar"
+  },
+  {
+    "code": "PHP",
+    "cname": "Philippine Peso"
+  },
+  {
+    "code": "QAR",
+    "cname": "Qatari Riyal"
+  },
+  {
+    "code": "SAR",
+    "cname": "Saudi Riyal"
+  },
+  {
+    "code": "SEK",
+    "cname": "Swedish Krona"
+  },
+  {
+    "code": "SGD",
+    "cname": "Singapore Dollar"
+  },
+  {
+    "code": "THB",
+    "cname": "Thai Baht"
+  },
+  {
+    "code": "TUR",
+    "cname": "Turkish Lira"
+  },
+  {
+    "code": "USD",
+    "cname": "United States Dollar"
+  },
+  {
+    "code": "VND",
+    "cname": "Vietnamese Dong"
+  },
+  {
+    "code": "ZAR",
+    "cname": "South African Rand"
+  },
+  {
+    "code": "KWD",
+    "cname": "Kuwaiti Dinar"
+  }
+]

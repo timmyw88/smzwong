@@ -1,0 +1,122 @@
+[
+  {
+    "category": "fast",
+    "code": "JPY",
+    "cname": "Japanese Yen",
+    "update": "1519211809934"
+  },
+  {
+    "category": "fast",
+    "code": "GBP",
+    "cname": "British Pound Sterling",
+    "update": "1519211809934"
+  },
+  {
+    "category": "fast",
+    "code": "USD",
+    "cname": "United States Dollar",
+    "update": "1519211809934"
+  },
+  {
+    "category": "fast",
+    "code": "CNY",
+    "cname": "Chinese Yuan",
+    "update": "1519211809934"
+  },
+  {
+    "category": "limited",
+    "code": "INR",
+    "cname": "Indian Rupee",
+    "update": "1519211809934"
+  },
+  {
+    "category": "limited",
+    "code": "AUD",
+    "cname": "Australian Dollar",
+    "update": "1519211809934"
+  },
+  {
+    "category": "limited",
+    "code": "THB",
+    "cname": "Thai Baht",
+    "update": "1519211809934"
+  },
+  {
+    "category": "limited",
+    "code": "SGD",
+    "cname": "Singapore Dollar",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "HKD",
+    "cname": "Hong Kong Dollar",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "AED",
+    "cname": "Arab Emirates Dirham",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "SAR",
+    "cname": "Saudi Riyal",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "TUR",
+    "cname": "Turkish Lira",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "TWD",
+    "cname": "Taiwan New Dollar",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "BRD",
+    "cname": "Brunei Dollar",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "CHF",
+    "cname": "Swiss Franc",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "EUR",
+    "cname": "Euro",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "NOK",
+    "cname": "Norwegian Krone",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "KWD",
+    "cname": "Kuwaiti Dinar",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "PHP",
+    "cname": "Philippine Peso",
+    "update": "1519211809934"
+  },
+  {
+    "category": "nostock",
+    "code": "SEK",
+    "cname": "Swedish Krona",
+    "update": "1519211809934"
+  }
+]
